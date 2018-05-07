@@ -53,3 +53,11 @@ export const hello = () => 'Hello, WYY';
 终于出现令人开心的小勾勾~
 
 ![](http://sinacloud.net/demo-static/article/jest-output-success.png)
+
+## Jest官方文档
+
+### Matchers
+
+[Using Matchers](https://facebook.github.io/jest/docs/zh-Hans/using-matchers.html)
+
+### 测试异步代码
